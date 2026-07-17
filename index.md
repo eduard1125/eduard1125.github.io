@@ -124,6 +124,15 @@
       <p>Девочка из Дома Ромашки Эленора матер инженер Характер: спокойная, соредаточиная, говорит много, часто шутет но не умело.</p>
     </div>
   </div>
+
+ <!-- Маркиз -->
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; text-align: center; background: #f9f9f9;">
+    <img src="markiz-4.png" alt="Маркиз" style="max-width: 100%; border-radius: 6px;">
+    <h4>Маркиз</h4>
+    <p style="font-size: 0.9em;">Учёный археолог. Сдержанный, упрямый, рассеянный. Хранит этикет, но иногда забывает про официальный вид.</p>
+  </div>
+
+</div>
   
 </div>
 </body>
