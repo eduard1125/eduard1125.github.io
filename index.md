@@ -43,6 +43,7 @@
 <html>
 <head>
     <title></title>
+    ## Галерея персонажей
 </head>
 <body>
    <style>
@@ -134,7 +135,6 @@
 
 </div>
   
-</div>
 </body>
 </html>
 
