@@ -9,6 +9,17 @@
     <h1>Галерея персонажей</h1>
 
     <style>
+.gallery-grid {
+    <html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Галерея персонажей — Кватротрон</title>
+</head>
+<body>
+
+    <h1>Галерея персонажей</h1>
+
+    <style>
         .gallery-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
@@ -22,24 +33,24 @@
             background: #fafafa;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         }
-       .char-card img {
-  position: relative;
-  z-index: 1;
-}
-
-.char-card::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border: 2px solid rgba(150, 220, 255, 0.6);
-  clip-path: polygon(
-    10% 0, 30% 0, 40% 20%, 50% 10%, 60% 30%,
-    80% 20%, 100% 40%, 90% 60%, 70% 80%,
-    50% 70%, 30% 90%, 10% 70%, 0 50%, 20% 30%
-  );
-  pointer-events: none;
-  z-index: 2;
-}
+        .char-card img {
+            width: 100%;
+            height: 320px;
+            object-fit: cover;
+        }
+        .char-card-body {
+            padding: 12px;
+        }
+        .char-card h3 {
+            margin: 0 0 6px;
+            font-size: 1.1rem;
+        }
+        .char-card p {
+            margin: 0;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            color: #333;
+        }
     </style>
 
     <div class="gallery-grid">
