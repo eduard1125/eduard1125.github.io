@@ -58,7 +58,7 @@
         <div class="char-card">
             <img src="zorika.png" alt="Зорика">
             <div class="char-card-body">
-                <h3>Зорика</h3>
+                <h3>Зорика<span class="crystal-icon">💎</span></h3>
                 <p>Из Дома Розы. Спокойная, наблюдательная, слышит кристаллы. Ведёт дневник, немного застенчива с незнакомцами, но с близкими раскрывается. Умеет стоять на своём, особенно в науке.</p>
             </div>
         </div>
@@ -67,7 +67,7 @@
         <div class="char-card">
             <img src="liede.png" alt="Лиэде">
             <div class="char-card-body">
-                <h3>Лиэде</h3>
+                <h3>Лиэде <span class="crystal-icon">💎</span></h3>
                 <p>Дочь Солнца, из Дома Лилий. Зелёные глаза, каштановые короткие волосы, слегка застенчивая, ленивая, любит поспать и мамины бутерброды с котлетой.</p>
             </div>
         </div>
@@ -76,7 +76,7 @@
         <div class="char-card">
             <img src="Nira.png" alt="Нира">
             <div class="char-card-body">
-                <h3>Нира</h3>
+                <h3>Нира<span class="crystal-icon">💎</span></h3>
                 <p>Младшая сестра Лиэде и её ученица из Дома Лилий.</p>
             </div>
         </div>
@@ -94,7 +94,7 @@
         <div class="char-card">
             <img src="Eleanor.png" alt="Эленора">
             <div class="char-card-body">
-                <h3>Эленора</h3>
+                <h3>Эленора<span class="crystal-icon">💎</span></h3>
                 <p>Девочка из Дома Ромашки. Инженер. Спокойная, сосредоточенная, говорит много, часто шутит, но не всегда удачно.</p>
             </div>
         </div>
@@ -103,7 +103,7 @@
         <div class="char-card">
             <img src="markiz-4.png" alt="Маркиз">
             <div class="char-card-body">
-                <h3>Маркиз</h3>
+                <h3>Маркиз<span class="crystal-icon">💎</span></h3>
                 <p>Учёный-археолог. Сдержанный, упрямый, рассеянный. Хранит этикет, но иногда забывает про официальный вид.</p>
             </div>
         </div>
