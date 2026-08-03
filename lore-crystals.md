@@ -19,6 +19,16 @@
 
     <h1>Галерея персонажей</h1>
 
+  .gallery-grid {
+    <html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Галерея персонажей — Кватротрон</title>
+</head>
+<body>
+
+    <h1>Галерея персонажей</h1>
+
     <style>
         .gallery-grid {
             display: grid;
@@ -67,7 +77,7 @@
         <div class="char-card">
             <img src="liede.png" alt="Лиэде">
             <div class="char-card-body">
-                <h3>Лиэде <span class="crystal-icon">💎</span></h3>
+                <h3>Лиэде<span class="crystal-icon">💎</span></h3>
                 <p>Дочь Солнца, из Дома Лилий. Зелёные глаза, каштановые короткие волосы, слегка застенчивая, ленивая, любит поспать и мамины бутерброды с котлетой.</p>
             </div>
         </div>
@@ -85,7 +95,7 @@
         <div class="char-card">
             <img src="Yatika.png" alt="Ятика">
             <div class="char-card-body">
-                <h3>Ятика</h3>
+                <h3>Ятика<span class="crystal-icon">💎</span></h3>
                 <p>Девочка из Дома Катусов. Родилась на Кватротроне в семье стражей защитников порядка. Характер сложный, но уравновешенный.</p>
             </div>
         </div>
@@ -110,4 +120,3 @@
     </div>
 </body>
 </html>
-
