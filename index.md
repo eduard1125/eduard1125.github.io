@@ -2,6 +2,7 @@
 
 *Автор: Крылов Эдуард eduard.kryloff@yandex.ru*  
 *Вселенная в разработке. Черновики и дневниковые записи.*
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/fbacb411fd7f4a3db6fdadd2147586ef/" style="border: none;" allow="clipboard-write;" allowFullScreen></iframe>
 Планета Кошкатания. Книга 1 — завершена. книгу можно скачать здесь https://disk.yandex.ru/d/P4KlnzEsvVpshg
 Книга 2: «Кватро трон Книга 2 — планета цветов»: история, к которой всё ведёт.книгу уже можно скачать здесь  https://disk.yandex.ru/d/_0NyQBeUnz_NCA 
 Книга 3: Воздухавяния — в розработке
